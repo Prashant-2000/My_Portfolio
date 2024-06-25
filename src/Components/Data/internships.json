@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "role": "Associate Business Analyst Trainee",
+    "organisation": "Newgen SoftWare Technologies Private Limited",
+    "startDate": "Jul, 2022",
+    "endDate": "Dec, 2022",
+    "location": "Noida, Uttar Pradesh",
+    "experiences": [
+      "Worked on business analysis",
+      "Worked on requirement gathering"
+    ],
+    "imageSrc": "company/Newgen_Logo.jpg"
+  },
+  {
+    "id": 2,
+    
+    "role": "NodeJS Developer Internship",
+    "organisation": "ShahSoftSol Private Limited",
+    "startDate": "Jan, 2022",
+    "endDate": "Mar 2022",
+    "location": "Indore, Madhya Pradesh",
+    "experiences": [
+      "Worked on API's",
+      "Worked with front-end developer team"
+    ],
+    "imageSrc": "company/shahsoftsol_logo.jpeg"
+  }
+]
